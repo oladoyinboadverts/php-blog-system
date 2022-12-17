@@ -25,8 +25,12 @@ Installation steps to shared hosting:
   6. Reload Your Website And Enjoy...
 ```
 
-```bash
+```
+Admin Default Password Is: "123456"
+```
 
-Admin Default Password Is: <code>123456</code>
+## Note
 
+```
+NOTE: The Php script has no user end style yet, but the admin panel has been styled.
 ```
