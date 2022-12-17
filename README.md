@@ -3,8 +3,30 @@ A Simple PHP &amp; Mysql Blogging System With Category, Template System, Tag Sys
 
 
 
-Instructions to follow :
+Installation Process :
 
-1 - You have to import the db.sql file to your database
-2 - Copy all files to your htdocs/blog folder
-3 - Run your server and navigate to the project (http://localhost/blog/)
+
+
+## Installation
+
+Installation steps to shared hosting:
+
+```bash
+  1. Extract zip file to "public_html"
+
+  2. Download database file from "/Database" folder
+
+  3. Import "db.sql" file to server
+
+  4. Locate and edit "info.php" with your database information in main directory
+
+  5. Check "settings" table in database, and change "127.0.0.1" in "siteurl" and "imagedir" with your site url
+
+  6. Reload Your Website And Enjoy...
+```
+
+```bash
+
+Admin Default Password Is: <code>123456</code>
+
+```
